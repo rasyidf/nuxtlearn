@@ -1,0 +1,29 @@
+title: nuxtlearn
+description: Dense Nuxt 4 syllabus for software engineers
+baseurl: ''
+url: ''
+
+theme: just-the-docs
+
+color_scheme: dark
+
+nav_order: asc
+
+search_enabled: true
+search.heading_level: 3
+
+aux_links:
+  GitHub: https://github.com/user/nuxtlearn
+
+footer_content: 'nuxtlearn — Nuxt 4.4.8 syllabus - stradivary'
+
+callouts:
+  gotcha:
+    title: Gotcha
+    color: red
+  tip:
+    title: Tip
+    color: green
+  official:
+    title: Official Docs
+    color: blue

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="chapter">
+  <div class="chapter-meta">
+    {% if page.starter %}<span class="label label-blue">Starter: {{ page.starter }}</span>{% endif %}
+    {% if page.official_docs %}
+    <details>
+      <summary>📖 Official Docs</summary>
+      <ul>
+        {% for link in page.official_docs %}
+        <li><a href="{{ link }}" target="_blank">{{ link | split: '/' | last }}</a></li>
+        {% endfor %}
+      </ul>
+    </details>
+    {% endif %}
+  </div>
+
+  {{ content }}
+</div>

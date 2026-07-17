@@ -1,0 +1,39 @@
+chapters:
+  - title: "00 — Orientation"
+    url: /chapters/00-orientation/
+  - title: "01 — Scaffold & Config"
+    url: /chapters/01-scaffold/
+  - title: "02 — Routing"
+    url: /chapters/02-routing/
+  - title: "03 — Layouts & Views"
+    url: /chapters/03-layouts/
+  - title: "04 — Data Fetching"
+    url: /chapters/04-data-fetching/
+  - title: "05 — Server Routes"
+    url: /chapters/05-server-routes/
+  - title: "06 — State"
+    url: /chapters/06-state/
+  - title: "07 — Middleware & Auth"
+    url: /chapters/07-middleware/
+  - title: "08 — Components"
+    url: /chapters/08-components/
+  - title: "09 — Composables"
+    url: /chapters/09-composables/
+  - title: "10 — Error Handling"
+    url: /chapters/10-errors/
+  - title: "11 — SEO & Head"
+    url: /chapters/11-seo/
+  - title: "12 — Modules & Plugins"
+    url: /chapters/12-modules/
+  - title: "13 — Rendering Modes"
+    url: /chapters/13-rendering/
+  - title: "14 — Testing"
+    url: /chapters/14-testing/
+  - title: "15 — Performance"
+    url: /chapters/15-performance/
+  - title: "16 — Deployment"
+    url: /chapters/16-deployment/
+  - title: "17 — Layers & Monorepo"
+    url: /chapters/17-layers/
+  - title: "18 — Real Patterns"
+    url: /chapters/18-patterns/
