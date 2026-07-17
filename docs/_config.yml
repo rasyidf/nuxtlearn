@@ -5,6 +5,9 @@ url: ''
 
 theme: just-the-docs
 
+plugins:
+  - jekyll-include-cache
+
 color_scheme: dark
 
 nav_order: asc
@@ -13,7 +16,7 @@ search_enabled: true
 search.heading_level: 3
 
 aux_links:
-  GitHub: https://github.com/user/nuxtlearn
+  GitHub: https://github.com/rasyidf/nuxtlearn
 
 footer_content: 'nuxtlearn — Nuxt 4.4.8 syllabus - stradivary'
 
