@@ -1,0 +1,10 @@
+export default defineEventHandler(() => {
+  return {
+    items: [
+      { id: 1, name: 'Widget A', price: 9.99 },
+      { id: 2, name: 'Widget B', price: 19.99 },
+      { id: 3, name: 'Widget C', price: 29.99 },
+    ],
+    timestamp: Date.now(),
+  }
+})
