@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "State Management"
 layout: chapter
 nav_order: 7

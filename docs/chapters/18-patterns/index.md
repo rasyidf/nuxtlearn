@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Real-World Patterns"
 layout: chapter
 nav_order: 19

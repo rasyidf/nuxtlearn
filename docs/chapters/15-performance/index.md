@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Performance"
 layout: chapter
 nav_order: 16

@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Layers & Monorepo"
 layout: chapter
 nav_order: 18

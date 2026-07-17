@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Composables"
 layout: chapter
 nav_order: 10

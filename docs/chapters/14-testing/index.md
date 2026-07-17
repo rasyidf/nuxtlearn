@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Testing"
 layout: chapter
 nav_order: 15

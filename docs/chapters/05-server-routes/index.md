@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Server Routes"
 layout: chapter
 nav_order: 6

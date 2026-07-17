@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Layouts & Views"
 layout: chapter
 nav_order: 4

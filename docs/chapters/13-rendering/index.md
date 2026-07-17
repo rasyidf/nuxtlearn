@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Rendering Modes"
 layout: chapter
 nav_order: 14

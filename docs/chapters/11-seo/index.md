@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "SEO & Head Management"
 layout: chapter
 nav_order: 12

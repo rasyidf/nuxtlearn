@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Routing"
 layout: chapter
 nav_order: 3

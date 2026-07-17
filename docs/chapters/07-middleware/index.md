@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Middleware & Auth"
 layout: chapter
 nav_order: 8

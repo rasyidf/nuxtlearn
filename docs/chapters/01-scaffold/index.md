@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Scaffold & Config"
 layout: chapter
 nav_order: 2

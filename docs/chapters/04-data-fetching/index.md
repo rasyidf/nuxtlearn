@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Data Fetching"
 layout: chapter
 nav_order: 5

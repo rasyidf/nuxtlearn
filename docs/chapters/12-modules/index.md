@@ -1,4 +1,5 @@
 ---
+render_with_liquid: false
 title: "Modules & Plugins"
 layout: chapter
 nav_order: 13
