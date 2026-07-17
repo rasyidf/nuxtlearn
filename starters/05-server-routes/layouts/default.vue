@@ -1,0 +1,5 @@
+<template>
+  <div style="max-width: 600px; margin: 0 auto; padding: 2rem;">
+    <slot />
+  </div>
+</template>
